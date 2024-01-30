@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int x;
-    cout<< "Hola mundo" << endl << endl;
+    cout<< endl;
     cout << "Ingrese su edad" <<endl;
     cin >> x;
     cout << "Tu edad es de: " << x << endl;
